@@ -31,6 +31,7 @@ void main() {
   bool startsWithD = lName.startsWith('d');
 
   print(startsWithD); // Output: true
+
   /*
   bool loveCoding = true;
   double tempInFahrenheit = 86;
